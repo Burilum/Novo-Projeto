@@ -7,7 +7,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗Clique aqui para acessar] (https://burilum.github.io/nlw-esports/)
+[🔗Clique aqui para acessar](https://burilum.github.io/nlw-esports/)
 
 ## 🚀 Tecnologias
 
